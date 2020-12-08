@@ -15,7 +15,7 @@ Handy Note Taker live deployed on Heroku which will allow the user to write and 
 
 ## Install
 
-Visit my [Note Taker](https://dashboard.heroku.com/apps/lit-sands-90847) and check it out! No install needed
+Visit my [Note Taker](https://lit-sands-90847.herokuapp.com/) and check it out! No install needed
 
 ## Usage
 
